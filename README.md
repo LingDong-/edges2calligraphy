@@ -11,3 +11,7 @@ Try the online deomo: https://lingdong-.github.io/edges2calligraphy/. (Tested in
 ## Examples
 
 ![](screenshots/screen01.png)
+
+## Training
+
+This project uses [pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow) for training. See [`/tools/README.md`](/tools/README.md) for details.
