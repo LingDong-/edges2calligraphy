@@ -78,9 +78,6 @@ function toggle_table_rule(p){
     }
   }
 }
-function rule_random(){
-
-}
 
 drawer = `
 <div id="drawer" style="
