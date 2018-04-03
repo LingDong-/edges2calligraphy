@@ -1,3 +1,5 @@
+![](screenshots/icon.png)
+
 # edges2calligraphy
 *From scribbles to Chinese calligraphy* （潦草字->赵体草书）
 ### https://lingdong-.github.io/edges2calligraphy/
