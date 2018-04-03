@@ -10,4 +10,4 @@ Try the online deomo: https://lingdong-.github.io/edges2calligraphy/. (Tested in
 
 ## Examples
 
-![](screenshots/screen001.png)
+![](screenshots/screen01.png)
