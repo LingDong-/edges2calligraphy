@@ -1,3 +1,12 @@
+// Use deeplearn.js to load pix2pix-tensorflow model
+// This script is mostly copied from:
+//  https://github.com/affinelayer/pix2pix-tensorflow/blob/master/server/static/index.html
+
+// Edits by Lingdong Huang:
+// Promises and requestAnimationFrames are added
+// to prevent UI from freezing when processing images
+
+
 PROGRESS = 0
 
 // model
