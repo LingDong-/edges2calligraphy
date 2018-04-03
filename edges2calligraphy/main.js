@@ -55,7 +55,7 @@ texts = {
     </tr></table>
     `),
   "Github": ()=>(`
-    Fork or star this project on Github: <a href='http://lingdong-.github.io'>http://lingdong-.github.io</a>
+    Fork or star this project on Github: <a href='https://github.com/LingDong-/edges2calligraphy/'>https://github.com/LingDong-/edges2calligraphy/</a>
   `),
   "Settings": ()=>(`
       <input onclick="ckbx_download = this.checked;" type="checkbox" `+(ckbx_download ? "checked" : "")+`> Use post-processed visuals when downloading<br>
