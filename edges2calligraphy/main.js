@@ -806,7 +806,7 @@ function check_browser_compatibility(){
   var isEdge = !isIE && !!window.StyleMedia;
 
   // Chrome 1+
-  var isChrome = !!window.chrome && !!window.chrome.webstore;
+  var isChrome = !!window.chrome;
 
   // Blink engine detection
   var isBlink = (isChrome || isOpera) && !!window.CSS;
