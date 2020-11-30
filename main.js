@@ -821,9 +821,10 @@ function check_browser_compatibility(){
   }
 }
 
-check_browser_compatibility()
+
 
 preload().then(()=>{
+  check_browser_compatibility()
   load().then(()=>{
     console.log("ready")
     table = new InfTable((i,j)=>{
